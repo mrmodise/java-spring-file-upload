@@ -13,7 +13,7 @@ In this simple application I am using Spring MVC and JPA (Hibernate) to persist 
  - Clone the project to your local machine
  - Import the project into Spring Tool Suite/Eclipse/IntellijIDEA
  - Locate the Database folder and change the database name, username and password
- - Open the ```modisefileupload.java.config.UserController``` and 
+ - Open the ```modisefileupload.java.controller.UserController``` and 
  modify the image path (for development purposes you will need to point the path to you local computer, 
  I have commented out the actual `rootDirect` to be used in the Server).
  - Right click on the project and run on server
