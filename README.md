@@ -11,7 +11,7 @@ In this simple application I am using Spring MVC and JPA (Hibernate) to persist 
 
 ### Setup
  - Clone the project to your local machine
- - Import the project into Spring Tool Suite/Eclipse
+ - Import the project into Spring Tool Suite/Eclipse/IntellijIDEA
  - Locate the Database folder and change the database name, username and password
  - Open the ```modisefileupload.java.config.UserController``` and 
  modify the image path (for development purposes you will need to point the path to you local computer, 
@@ -24,7 +24,7 @@ In this simple application I am using Spring MVC and JPA (Hibernate) to persist 
 ```
 The MIT License (MIT)
 
-Copyright (c) 2016 Morebodi Modise
+Copyright (c) 2016 Mr Modise
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
