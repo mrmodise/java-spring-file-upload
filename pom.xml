@@ -14,7 +14,7 @@
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.11</junit.version>
 		<springframework.version>4.2.4.RELEASE</springframework.version>
-		<spring.jpa.data.version>1.9.2.RELEASE</spring.jpa.data.version>
+		<spring.jpa.data.version>1.11.23.RELEASE</spring.jpa.data.version>
 		<hibernate.version>4.2.1.Final</hibernate.version>
 		<commons.file.upload.version>1.2.2</commons.file.upload.version>
 		<commons.io.version>2.4</commons.io.version>
