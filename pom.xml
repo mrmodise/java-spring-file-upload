@@ -12,7 +12,7 @@
 		<logback.version>1.0.13</logback.version>
 		<jsp.version>2.2</jsp.version>
 		<jstl.version>1.2</jstl.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<springframework.version>4.2.4.RELEASE</springframework.version>
 		<spring.jpa.data.version>1.11.23.RELEASE</spring.jpa.data.version>
 		<hibernate.version>4.2.1.Final</hibernate.version>
