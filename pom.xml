@@ -9,7 +9,7 @@
 		<java.version>1.8</java.version>
 		<springframework.version>4.2.4.RELEASE</springframework.version>
 		<slf4j.version>1.7.5</slf4j.version>
-		<logback.version>1.0.13</logback.version>
+		<logback.version>1.2.0</logback.version>
 		<jsp.version>2.2</jsp.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.13.1</junit.version>
